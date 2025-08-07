@@ -9,7 +9,7 @@ This project focus on classifying damaged vehicle images based on their damaged 
 • Low- Vehicles with very minute damages like scratches, small crushes. \
 • Medium – Vehicles with damages to parts like shutters, metal body, mirrors etc... \
 • Severe – Vehicles that are almost condemned or with large distructions to the body. \
-• No- damage – No damage to the parts of the vehicle. \
+• No- damage – No damage to the parts of the vehicle. 
 
 **Methodology**
 1) Initially the existing training dataset was augmented and doubled the size. Then the
