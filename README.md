@@ -16,7 +16,7 @@ This project focus on classifying damaged vehicle images based on their damaged 
 
 Methodology
 1) Initially the existing training dataset was augmented and doubled the size. Then the
-model fitting process was carried out to check the accuracy. \n
+model fitting process was carried out to check the accuracy. 
 2) As the next step after collecting more data, a new version of the first dataset was
 created followed by a model fitting process with InceptionV3 and Resnet50.
 3) Since it was identified that accuracy of the models trained with new dataset was higher,
